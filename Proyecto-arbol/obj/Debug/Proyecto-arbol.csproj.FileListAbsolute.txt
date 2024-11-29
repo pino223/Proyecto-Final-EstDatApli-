@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Proyecto-arbol\Proyecto-arbol\bin\Debug\Proyecto-arbol.exe.config
+C:\Users\Dell\source\repos\Proyecto-arbol\Proyecto-arbol\bin\Debug\Proyecto-arbol.exe
+C:\Users\Dell\source\repos\Proyecto-arbol\Proyecto-arbol\bin\Debug\Proyecto-arbol.pdb
+C:\Users\Dell\source\repos\Proyecto-arbol\Proyecto-arbol\obj\Debug\Proyecto-arbol.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Proyecto-arbol\Proyecto-arbol\obj\Debug\Proyecto-arbol.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Proyecto-arbol\Proyecto-arbol\obj\Debug\Proyecto-arbol.exe
+C:\Users\Dell\source\repos\Proyecto-arbol\Proyecto-arbol\obj\Debug\Proyecto-arbol.pdb
